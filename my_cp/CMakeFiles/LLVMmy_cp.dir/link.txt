@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -Wall -fno-rtti -shared  -o libLLVMmy_cp.so CMakeFiles/LLVMmy_cp.dir/cp_lib.cpp.o 
