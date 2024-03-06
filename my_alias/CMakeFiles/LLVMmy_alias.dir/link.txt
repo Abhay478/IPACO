@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -Wall -fno-rtti -shared  -o libLLVMmy_alias.so CMakeFiles/LLVMmy_alias.dir/alias_lib.cpp.o 
