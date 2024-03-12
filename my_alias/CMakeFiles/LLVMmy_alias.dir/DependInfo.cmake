@@ -8,15 +8,11 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/u/student/2021/cs21btech11001/IPACO/my_alias/alias_lib.cpp" "my_alias/CMakeFiles/LLVMmy_alias.dir/alias_lib.cpp.o" "gcc" "my_alias/CMakeFiles/LLVMmy_alias.dir/alias_lib.cpp.o.d"
+  "/home/abhay/IPACO/my_alias/alias_lib.cpp" "my_alias/CMakeFiles/LLVMmy_alias.dir/alias_lib.cpp.o" "gcc" "my_alias/CMakeFiles/LLVMmy_alias.dir/alias_lib.cpp.o.d"
   )
 
-# Targets to which this target links which contain Fortran sources.
-set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
-  )
-
-# Targets to which this target links which contain Fortran sources.
-set(CMAKE_Fortran_TARGET_FORWARD_LINKED_INFO_FILES
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
   )
 
 # Fortran module output directory.

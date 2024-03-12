@@ -1,4 +1,4 @@
-# Install script for directory: /u/student/2021/cs21btech11001/IPACO/my_alias
+# Install script for directory: /home/abhay/IPACO/my_alias
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

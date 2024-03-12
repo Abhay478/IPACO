@@ -1,7 +1,6 @@
 my_alias/CMakeFiles/LLVMmy_alias.dir/alias_lib.cpp.o: \
- /u/student/2021/cs21btech11001/IPACO/my_alias/alias_lib.cpp \
- /usr/include/stdc-predef.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/Pass.h \
+ /home/abhay/IPACO/my_alias/alias_lib.cpp /usr/include/stdc-predef.h \
+ /home/abhay/llvm-project/llvm/include/llvm/Pass.h \
  /usr/include/c++/11/string \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -130,19 +129,19 @@ my_alias/CMakeFiles/LLVMmy_alias.dir/alias_lib.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/types/error_t.h \
  /usr/include/c++/11/bits/charconv.h \
  /usr/include/c++/11/bits/basic_string.tcc \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/PassAnalysisSupport.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/ADT/STLExtras.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/ADT/Optional.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/ADT/Hashing.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/Support/DataTypes.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm-c/DataTypes.h \
+ /home/abhay/llvm-project/llvm/include/llvm/PassAnalysisSupport.h \
+ /home/abhay/llvm-project/llvm/include/llvm/ADT/STLExtras.h \
+ /home/abhay/llvm-project/llvm/include/llvm/ADT/Optional.h \
+ /home/abhay/llvm-project/llvm/include/llvm/ADT/Hashing.h \
+ /home/abhay/llvm-project/llvm/include/llvm/Support/DataTypes.h \
+ /home/abhay/llvm-project/llvm/include/llvm-c/DataTypes.h \
  /usr/include/inttypes.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/Support/ErrorHandling.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/Support/Compiler.h \
- /u/student/2021/cs21btech11001/llvm-project/build/include/llvm/Config/llvm-config.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/Support/SwapByteOrder.h \
+ /home/abhay/llvm-project/llvm/include/llvm/Support/ErrorHandling.h \
+ /home/abhay/llvm-project/llvm/include/llvm/Support/Compiler.h \
+ /home/abhay/llvm-project/build/include/llvm/Config/llvm-config.h \
+ /home/abhay/llvm-project/llvm/include/llvm/Support/SwapByteOrder.h \
  /usr/include/c++/11/cstddef \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/Support/type_traits.h \
+ /home/abhay/llvm-project/llvm/include/llvm/Support/type_traits.h \
  /usr/include/c++/11/utility /usr/include/c++/11/bits/stl_relops.h \
  /usr/include/c++/11/algorithm /usr/include/c++/11/bits/stl_algo.h \
  /usr/include/c++/11/bits/algorithmfwd.h \
@@ -169,13 +168,13 @@ my_alias/CMakeFiles/LLVMmy_alias.dir/alias_lib.cpp.o: \
  /usr/include/c++/11/pstl/execution_defs.h /usr/include/c++/11/cassert \
  /usr/include/assert.h /usr/include/c++/11/cstring /usr/include/string.h \
  /usr/include/strings.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/ADT/None.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/ADT/STLForwardCompat.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/ADT/STLArrayExtras.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/ADT/STLFunctionalExtras.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/ADT/identity.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/ADT/iterator.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/ADT/iterator_range.h \
+ /home/abhay/llvm-project/llvm/include/llvm/ADT/None.h \
+ /home/abhay/llvm-project/llvm/include/llvm/ADT/STLForwardCompat.h \
+ /home/abhay/llvm-project/llvm/include/llvm/ADT/STLArrayExtras.h \
+ /home/abhay/llvm-project/llvm/include/llvm/ADT/STLFunctionalExtras.h \
+ /home/abhay/llvm-project/llvm/include/llvm/ADT/identity.h \
+ /home/abhay/llvm-project/llvm/include/llvm/ADT/iterator.h \
+ /home/abhay/llvm-project/llvm/include/llvm/ADT/iterator_range.h \
  /usr/include/c++/11/iterator /usr/include/c++/11/bits/stream_iterator.h \
  /usr/include/c++/11/bits/streambuf_iterator.h \
  /usr/include/c++/11/streambuf /usr/include/c++/11/bits/ios_base.h \
@@ -188,7 +187,7 @@ my_alias/CMakeFiles/LLVMmy_alias.dir/alias_lib.cpp.o: \
  /usr/include/c++/11/bits/cxxabi_init_exception.h \
  /usr/include/c++/11/bits/nested_exception.h \
  /usr/include/c++/11/bits/streambuf.tcc \
- /u/student/2021/cs21btech11001/llvm-project/build/include/llvm/Config/abi-breaking.h \
+ /home/abhay/llvm-project/build/include/llvm/Config/abi-breaking.h \
  /usr/include/c++/11/limits /usr/include/c++/11/memory \
  /usr/include/c++/11/bits/stl_raw_storage_iter.h \
  /usr/include/c++/11/bits/align.h /usr/include/c++/11/bit \
@@ -202,16 +201,16 @@ my_alias/CMakeFiles/LLVMmy_alias.dir/alias_lib.cpp.o: \
  /usr/include/c++/11/bits/atomic_lockfree_defines.h \
  /usr/include/c++/11/backward/auto_ptr.h \
  /usr/include/c++/11/pstl/glue_memory_defs.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/ADT/SmallVector.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/PassSupport.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/ADT/StringRef.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/ADT/DenseMapInfo.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/PassInfo.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/PassRegistry.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/ADT/DenseMap.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/ADT/EpochTracker.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/Support/AlignOf.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/Support/MathExtras.h \
+ /home/abhay/llvm-project/llvm/include/llvm/ADT/SmallVector.h \
+ /home/abhay/llvm-project/llvm/include/llvm/PassSupport.h \
+ /home/abhay/llvm-project/llvm/include/llvm/ADT/StringRef.h \
+ /home/abhay/llvm-project/llvm/include/llvm/ADT/DenseMapInfo.h \
+ /home/abhay/llvm-project/llvm/include/llvm/PassInfo.h \
+ /home/abhay/llvm-project/llvm/include/llvm/PassRegistry.h \
+ /home/abhay/llvm-project/llvm/include/llvm/ADT/DenseMap.h \
+ /home/abhay/llvm-project/llvm/include/llvm/ADT/EpochTracker.h \
+ /home/abhay/llvm-project/llvm/include/llvm/Support/AlignOf.h \
+ /home/abhay/llvm-project/llvm/include/llvm/Support/MathExtras.h \
  /usr/include/c++/11/climits \
  /usr/lib/gcc/x86_64-linux-gnu/11/include/limits.h \
  /usr/lib/gcc/x86_64-linux-gnu/11/include/syslimits.h \
@@ -242,72 +241,94 @@ my_alias/CMakeFiles/LLVMmy_alias.dir/alias_lib.cpp.o: \
  /usr/include/c++/11/tr1/poly_hermite.tcc \
  /usr/include/c++/11/tr1/poly_laguerre.tcc \
  /usr/include/c++/11/tr1/riemann_zeta.tcc \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/Support/MemAlloc.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/Support/ReverseIteration.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/Support/PointerLikeTypeTraits.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/ADT/StringMap.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/ADT/StringMapEntry.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/Support/AllocatorBase.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/Support/CBindingWrapping.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm-c/Types.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm-c/ExternC.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/Support/Casting.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/Support/RWMutex.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/Support/Threading.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/ADT/BitVector.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/ADT/ArrayRef.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/ADT/FunctionExtras.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/ADT/PointerIntPair.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/ADT/PointerUnion.h \
+ /home/abhay/llvm-project/llvm/include/llvm/Support/MemAlloc.h \
+ /home/abhay/llvm-project/llvm/include/llvm/Support/ReverseIteration.h \
+ /home/abhay/llvm-project/llvm/include/llvm/Support/PointerLikeTypeTraits.h \
+ /home/abhay/llvm-project/llvm/include/llvm/ADT/StringMap.h \
+ /home/abhay/llvm-project/llvm/include/llvm/ADT/StringMapEntry.h \
+ /home/abhay/llvm-project/llvm/include/llvm/Support/AllocatorBase.h \
+ /home/abhay/llvm-project/llvm/include/llvm/Support/CBindingWrapping.h \
+ /home/abhay/llvm-project/llvm/include/llvm-c/Types.h \
+ /home/abhay/llvm-project/llvm/include/llvm-c/ExternC.h \
+ /home/abhay/llvm-project/llvm/include/llvm/Support/Casting.h \
+ /home/abhay/llvm-project/llvm/include/llvm/Support/RWMutex.h \
+ /home/abhay/llvm-project/llvm/include/llvm/Support/Threading.h \
+ /home/abhay/llvm-project/llvm/include/llvm/ADT/BitVector.h \
+ /home/abhay/llvm-project/llvm/include/llvm/ADT/ArrayRef.h \
+ /home/abhay/llvm-project/llvm/include/llvm/ADT/FunctionExtras.h \
+ /home/abhay/llvm-project/llvm/include/llvm/ADT/PointerIntPair.h \
+ /home/abhay/llvm-project/llvm/include/llvm/ADT/PointerUnion.h \
  /usr/include/c++/11/ciso646 /usr/include/c++/11/mutex \
  /usr/include/c++/11/chrono /usr/include/c++/11/ratio \
  /usr/include/c++/11/ctime /usr/include/c++/11/bits/parse_numbers.h \
  /usr/include/c++/11/bits/std_mutex.h \
  /usr/include/c++/11/bits/unique_lock.h /usr/include/c++/11/shared_mutex \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/IR/Function.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/ADT/DenseSet.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/ADT/Twine.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/ADT/ilist_node.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/ADT/ilist_node_base.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/ADT/ilist_node_options.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/IR/Argument.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/IR/Attributes.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/ADT/SmallString.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/Support/Alignment.h \
+ /home/abhay/llvm-project/llvm/include/llvm/IR/Function.h \
+ /home/abhay/llvm-project/llvm/include/llvm/ADT/DenseSet.h \
+ /home/abhay/llvm-project/llvm/include/llvm/ADT/Twine.h \
+ /home/abhay/llvm-project/llvm/include/llvm/ADT/ilist_node.h \
+ /home/abhay/llvm-project/llvm/include/llvm/ADT/ilist_node_base.h \
+ /home/abhay/llvm-project/llvm/include/llvm/ADT/ilist_node_options.h \
+ /home/abhay/llvm-project/llvm/include/llvm/IR/Argument.h \
+ /home/abhay/llvm-project/llvm/include/llvm/IR/Attributes.h \
+ /home/abhay/llvm-project/llvm/include/llvm/ADT/SmallString.h \
+ /home/abhay/llvm-project/llvm/include/llvm/Support/Alignment.h \
  /usr/include/c++/11/bitset /usr/include/c++/11/set \
  /usr/include/c++/11/bits/stl_tree.h /usr/include/c++/11/bits/stl_set.h \
  /usr/include/c++/11/bits/stl_multiset.h \
- /u/student/2021/cs21btech11001/llvm-project/build/include/llvm/IR/Attributes.inc \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/IR/Value.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/IR/Use.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/IR/Value.def \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/IR/BasicBlock.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/ADT/ilist.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/ADT/simple_ilist.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/ADT/ilist_base.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/ADT/ilist_iterator.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/IR/Instruction.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/ADT/Bitfields.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/IR/DebugLoc.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/IR/TrackingMDRef.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/IR/Metadata.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/IR/Constant.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/IR/User.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/IR/LLVMContext.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/IR/DiagnosticHandler.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/IR/FixedMetadataKinds.def \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/IR/Metadata.def \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/IR/SymbolTableListTraits.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/Support/AtomicOrdering.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/IR/Instruction.def \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/IR/CallingConv.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/IR/DerivedTypes.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/IR/Type.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/Support/TypeSize.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/Support/raw_ostream.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/IR/GlobalObject.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/IR/GlobalValue.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/Support/MD5.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/Support/Endian.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/IR/OperandTraits.h \
- /u/student/2021/cs21btech11001/llvm-project/llvm/include/llvm/IR/LegacyPassManager.h
+ /home/abhay/llvm-project/build/include/llvm/IR/Attributes.inc \
+ /home/abhay/llvm-project/llvm/include/llvm/IR/Value.h \
+ /home/abhay/llvm-project/llvm/include/llvm/IR/Use.h \
+ /home/abhay/llvm-project/llvm/include/llvm/IR/Value.def \
+ /home/abhay/llvm-project/llvm/include/llvm/IR/BasicBlock.h \
+ /home/abhay/llvm-project/llvm/include/llvm/ADT/ilist.h \
+ /home/abhay/llvm-project/llvm/include/llvm/ADT/simple_ilist.h \
+ /home/abhay/llvm-project/llvm/include/llvm/ADT/ilist_base.h \
+ /home/abhay/llvm-project/llvm/include/llvm/ADT/ilist_iterator.h \
+ /home/abhay/llvm-project/llvm/include/llvm/IR/Instruction.h \
+ /home/abhay/llvm-project/llvm/include/llvm/ADT/Bitfields.h \
+ /home/abhay/llvm-project/llvm/include/llvm/IR/DebugLoc.h \
+ /home/abhay/llvm-project/llvm/include/llvm/IR/TrackingMDRef.h \
+ /home/abhay/llvm-project/llvm/include/llvm/IR/Metadata.h \
+ /home/abhay/llvm-project/llvm/include/llvm/IR/Constant.h \
+ /home/abhay/llvm-project/llvm/include/llvm/IR/User.h \
+ /home/abhay/llvm-project/llvm/include/llvm/IR/LLVMContext.h \
+ /home/abhay/llvm-project/llvm/include/llvm/IR/DiagnosticHandler.h \
+ /home/abhay/llvm-project/llvm/include/llvm/IR/FixedMetadataKinds.def \
+ /home/abhay/llvm-project/llvm/include/llvm/IR/Metadata.def \
+ /home/abhay/llvm-project/llvm/include/llvm/IR/SymbolTableListTraits.h \
+ /home/abhay/llvm-project/llvm/include/llvm/Support/AtomicOrdering.h \
+ /home/abhay/llvm-project/llvm/include/llvm/IR/Instruction.def \
+ /home/abhay/llvm-project/llvm/include/llvm/IR/CallingConv.h \
+ /home/abhay/llvm-project/llvm/include/llvm/IR/DerivedTypes.h \
+ /home/abhay/llvm-project/llvm/include/llvm/IR/Type.h \
+ /home/abhay/llvm-project/llvm/include/llvm/Support/TypeSize.h \
+ /home/abhay/llvm-project/llvm/include/llvm/Support/raw_ostream.h \
+ /home/abhay/llvm-project/llvm/include/llvm/IR/GlobalObject.h \
+ /home/abhay/llvm-project/llvm/include/llvm/IR/GlobalValue.h \
+ /home/abhay/llvm-project/llvm/include/llvm/Support/MD5.h \
+ /home/abhay/llvm-project/llvm/include/llvm/Support/Endian.h \
+ /home/abhay/llvm-project/llvm/include/llvm/IR/OperandTraits.h \
+ /home/abhay/llvm-project/llvm/include/llvm/IR/CFG.h \
+ /home/abhay/llvm-project/llvm/include/llvm/ADT/GraphTraits.h \
+ /home/abhay/llvm-project/llvm/include/llvm/IR/InstIterator.h \
+ /home/abhay/llvm-project/llvm/include/llvm/IR/Constants.h \
+ /home/abhay/llvm-project/llvm/include/llvm/ADT/APFloat.h \
+ /home/abhay/llvm-project/llvm/include/llvm/ADT/APInt.h \
+ /home/abhay/llvm-project/llvm/include/llvm/ADT/FloatingPointMode.h \
+ /home/abhay/llvm-project/llvm/include/llvm/ADT/StringSwitch.h \
+ /usr/include/c++/11/map /usr/include/c++/11/bits/stl_map.h \
+ /usr/include/c++/11/bits/stl_multimap.h /usr/include/c++/11/fstream \
+ /usr/include/c++/11/istream /usr/include/c++/11/ios \
+ /usr/include/c++/11/bits/basic_ios.h \
+ /usr/include/c++/11/bits/locale_facets.h /usr/include/c++/11/cwctype \
+ /usr/include/wctype.h /usr/include/x86_64-linux-gnu/bits/wctype-wchar.h \
+ /usr/include/x86_64-linux-gnu/c++/11/bits/ctype_base.h \
+ /usr/include/x86_64-linux-gnu/c++/11/bits/ctype_inline.h \
+ /usr/include/c++/11/bits/locale_facets.tcc \
+ /usr/include/c++/11/bits/basic_ios.tcc /usr/include/c++/11/ostream \
+ /usr/include/c++/11/bits/ostream.tcc \
+ /usr/include/c++/11/bits/istream.tcc /usr/include/c++/11/bits/codecvt.h \
+ /usr/include/x86_64-linux-gnu/c++/11/bits/basic_file.h \
+ /usr/include/x86_64-linux-gnu/c++/11/bits/c++io.h \
+ /usr/include/c++/11/bits/fstream.tcc
